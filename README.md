@@ -18,6 +18,6 @@ Bem vindo ao meu GitHub
 
 
 <div align = "left">
-<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=vitor2143&show_icons=true&theme=dark&count_private=true"/>
-<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=vitor2143&show_icons=true&show_icons=true&theme=dark&count_private=true" />
+<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=vitor2143&show_icons=true&theme=gruvbox&count_private=true"/>
+<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=vitor2143&show_icons=true&show_icons=true&theme=gruvbox&count_private=true" />
 </div>
