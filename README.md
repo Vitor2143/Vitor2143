@@ -2,7 +2,7 @@
 
 Bem vindo ao meu GitHub
  <div id="badges">
-  <a href = "https://github.com/risoflorais">
+  <a href = "https://www.linkedin.com/in/vitor-augusto-99a557176/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
  </div>
